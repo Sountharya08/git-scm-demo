@@ -8,4 +8,7 @@ public class demotest {
     public void testmethod(){
         System.out.println("TestMethod one");
     }
+    public void testmethodTwo(){
+        System.out.println("TestMethod Two");
+    }
 }
